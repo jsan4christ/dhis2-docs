@@ -555,6 +555,7 @@
         <imageobject>
           <imagedata width="80%" fileref="resources/images/gis/gis_boundary_layers.png" format="PNG"
             align="center"/>
+
         </imageobject>
       </mediaobject>
     </screenshot>
@@ -638,6 +639,7 @@
       <mediaobject>
         <imageobject>
           <?oxy_comment_start author="cecilia" timestamp="20160630T212009+0200" comment="Before release: Update screenshot: Select layer has changed to Select data set" flag="done"?>
+
           <imagedata width="80%" fileref="resources/images/gis/gis_earth_engine_layer.png"
             format="PNG" align="center"/>
           <?oxy_comment_end?>
