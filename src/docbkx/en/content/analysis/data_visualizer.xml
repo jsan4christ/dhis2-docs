@@ -50,10 +50,17 @@
         <para>Select a chart type.</para>
       </listitem>
       <listitem>
-        <para>In the menu to the left, select the meta data you want to analyse. You must select one
+        <para>In the menu to the left, select the metadata you want to analyse. You must select one
           or more elements from all of the three dimensions - data (indicators, data elements,
           reporting rates), periods (relative, fixed) and organisation units (units or
           groups).</para>
+        <para>
+          <note>
+            <para>If you've access to the system settings, you can change the default period type
+              under <emphasis role="bold">General settings > Default relative period for
+                analysis.</emphasis></para>
+          </note>
+        </para>
         <para><emphasis role="bold">Last 12 Months</emphasis> from the period dimension and the root
           organisation unit are selected by default.</para>
       </listitem>
